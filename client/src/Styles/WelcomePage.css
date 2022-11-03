@@ -1,0 +1,89 @@
+#welcomePage{
+
+    width: 1920px;
+    height: 795px;
+   
+}
+#welcomePage2{
+    background-image:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.73) 0%, rgba(0, 0, 0, 0.8) 0.01%, rgba(0, 0, 0, 0.7) 72.4%, rgba(63, 63, 63, 0) 100%),url(D:\yazlab-project\src\Images\laptop-g2a13aaaed_1920.jpg) ;
+   
+    width: 1920px;
+    height: 795px;
+    left: 1px;
+    top: 200px;
+    
+    
+    }
+
+    
+    #welcomePageText1{
+        position: absolute;
+        width: 1800px;
+        height: 0px;
+        left: 105px;
+        top: 200px;
+        
+        font-family: Verdana,Geneva,sans-serif;font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1;        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        /* identical to box height, or 0% */
+        text-transform: uppercase;
+        
+        color: #FFFFFF;
+        
+        text-shadow: 0px 0px 436.968px #7A6C6C, 0px 0px 249.696px #7A6C6C, 0px 0px 145.656px #7A6C6C, 0px 0px 72.828px #7A6C6C, 0px 0px 20.808px #7A6C6C, 0px 0px 10.404px #7A6C6C;
+        }
+        #welcomePageText2{
+            position: absolute;
+            width: 1800px;
+            height: 0px;
+            left: 105px;
+            top: 400px;
+
+            text-transform: uppercase;
+
+            
+            
+            font-family: Verdana,Geneva,sans-serif;  font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1;        font-style: normal;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            /* identical to box height, or 0% */
+            
+            
+            color: #FFFFFF;
+            
+            text-shadow: 0px 0px 329.868px #7A6C6C, 0px 0px 188.496px #7A6C6C, 0px 0px 109.956px #7A6C6C, 0px 0px 54.978px #7A6C6C, 0px 0px 15.708px #7A6C6C, 0px 0px 7.854px #7A6C6C;
+        }
+
+        #wp-button{
+            position: absolute;
+
+            right: 150px;
+            top: 600px;
+            padding: 20px;
+            background: #044343;
+            border-radius: 10px;
+            
+            font-family: Verdana,Geneva,sans-serif;             font-weight: 800;
+            font-size: 36px;
+            line-height: 0px;
+            color: #FFFFFF;
+
+            border:0;
+        }
+
+        #wp-button:hover{
+            box-shadow: 0px 0px 64.1088px #607B76, 0px 0px 36.6336px #607B76, 0px 0px 21.3696px #607B76, 0px 0px 10.6848px #607B76, 0px 0px 3.0528px #607B76, 0px 0px 1.5264px #607B76;
+
+        }
+
+
+        body { --show-double-buttons:none; --scrollbar-border-thickness:3px; --scrollbar-border-radius:30px; --scrollbar-height:0px; --scrollbar-width:15px; --scrollbar-border-color:#FFC10700; --scrollbar-corner-color:#03A9F400; --scrollbar-button-color:#03A9F400; --scrollbar-track-color:#222222; --scrollbar-thumb-color:#044343; } body::-webkit-scrollbar { width: var(--scrollbar-width, 20px); height: var(--scrollbar-height, 20px); }body::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb-color, #3B82F6); border: var(--scrollbar-border-thickness, 3px) solid var(--scrollbar-border-color, rgb(255, 255, 255)); border-radius: var(--scrollbar-border-radius, 4px); }body::-webkit-scrollbar-track { background: var(--scrollbar-track-color, #A1A1AA); }body::-webkit-scrollbar-corner { background: var(--scrollbar-corner-color, #FFFFFF); border: var(--scrollbar-border-thickness, 3px) solid var(--scrollbar-border-color, rgb(255, 255, 255)); border-radius: var(--scrollbar-border-radius, 4px); }body::-webkit-scrollbar-button:vertical:start:increment, #preview::-webkit-scrollbar-button:vertical:end:decrement, #preview::-webkit-scrollbar-button:horizontal:start:increment, #preview::-webkit-scrollbar-button:horizontal:end:decrement { display: var(--show-double-buttons, none); }
+
+
+
+        body{
+            background-color:#E4E4E4;
+        }

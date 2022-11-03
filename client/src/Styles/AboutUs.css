@@ -1,0 +1,44 @@
+#top-line{
+    margin-top:265px;
+padding: 0; 
+height: 100px;
+background: #045757;
+}
+
+
+#image-1{
+    width: 500;
+    height: 500;
+
+  
+}
+
+#as-header{
+    margin-top:10px;
+    width: 550px;
+    height: 75px;
+    background: #222222;
+    border-radius: 10px;
+}
+
+#as-text{
+    
+
+margin-top: 150px;
+font-family: 'Nunito Sans';
+font-style: bolder;
+font-size: 28px;
+/* identical to box height, or 0% */
+
+color: #000000;
+}
+
+
+
+#bottom-line{
+    height: 100px;
+    padding: 0; 
+
+    background: #045757;
+ 
+}

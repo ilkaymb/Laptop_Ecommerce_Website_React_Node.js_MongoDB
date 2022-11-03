@@ -1,0 +1,77 @@
+#side-bar-box{
+    position:absolute;
+    top: 150px;
+    width:330px;
+    min-height: 3000px;
+    background: #222222;
+}
+
+.magaza-buton{
+    padding:10px 20px;
+    border:1px solid black;
+    border-right:0;
+    border-bottom-left-radius:20px;
+    border-top-left-radius:20px;
+    background-color: #044343;
+    color:aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+    
+    }
+    
+    
+    
+        
+    
+    .all-buton{
+        padding:10px 15px;
+        border:1px solid black;
+    border-left:0;
+    border-bottom-right-radius:20px;
+    border-top-right-radius:20px;
+    font-size: 16px;
+    font-weight: bold;
+    }
+
+    .all-other{
+        padding:10px 15px;
+        border:1px solid black;
+    border-left:0;
+
+    font-size: 16px;
+    font-weight: bold;
+    }
+
+.anyClass {
+    height:150px;
+    overflow-y: scroll;
+  }
+  .anyClass {
+    height:150px;
+    overflow-y: scroll;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    
+    margin: 0;
+    padding: 0;
+    color:black;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
+}

@@ -1,0 +1,54 @@
+#left-box{
+ 
+    position: absolute;
+    width: 331px;
+    height: 900px;
+    left: calc(50% - 331px/2 - 957.5px);
+    top: 945px;
+    
+    background: #222222;
+    border-radius: 25px;
+}
+
+#rigth-box{
+    position: absolute;
+    width: 331px;
+    height: 900px;
+    left: calc(50% - 331px/2 + 960.5px);
+    top: 945px;
+    
+    background: #222222;
+    border-radius: 25px;
+}
+
+#bs-header{
+    width: 550px;
+    height: 75px;
+    background: #222222;
+    border-radius: 10px;
+    
+}
+
+#txt{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    
+}
+
+#bs-card1{
+justify-content: center;
+align-items: center;
+text-align: center;
+    box-sizing: border-box;
+    width: 1000px;
+    height: 500px;
+    background: rgba(170, 170, 170);
+    border-radius: 20px;
+    margin-top: 50px;
+}
+

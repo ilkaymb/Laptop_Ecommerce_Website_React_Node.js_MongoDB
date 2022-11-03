@@ -1,0 +1,24 @@
+.update-box{
+    
+position: absolute;
+width: 1584px;
+left: 146px;
+top: 200px;
+padding-bottom: 25px;
+
+background: rgba(217, 217, 217, 0.8);
+}
+
+.update-header{
+    
+   font-size: 16px;
+    }
+.update{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:20px;
+    background-color: #F2F2EB;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}

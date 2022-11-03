@@ -1,0 +1,58 @@
+#contact1{
+    margin-top:15px;
+    background-image:url(D:\yazlab-project\src\Images\contact-image-black.jpg);
+    max-width:100%;
+    width: 750px;
+    height: 750px;
+    opacity: 0.75;
+    background-position: center;
+    background-size: cover;
+    
+}
+#contact1-text{
+color:whitesmoke;
+margin: auto;
+text-align: left;
+margin-top:250px ;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+display:block;
+background: rgba(0, 0, 0, 0.8);
+border-radius: 10px;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-left: 5px;
+}
+
+#contact2{
+    margin-top:15px;
+
+    background-image:url(D:\yazlab-project\src\Images\contact-card-color.avif);
+    max-width:100%;
+    width: 750px;
+    height: 750px;
+    opacity: 0.75;
+    background-position: center;
+    background-size: cover;
+    color:black;
+}
+
+#contact2-text{
+    color:black;
+    margin: auto;
+    text-align: left;
+    margin-top:250px ;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    display:block;
+    background: rgba(255, 255, 255, 0.45);    
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 5px;
+
+    }

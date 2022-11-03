@@ -1,0 +1,11 @@
+.collapse-box{
+    background-color: white;
+    margin-bottom: 10px;
+    
+}
+
+.dropdown-toggle::after {
+    text-align: right;
+    float: right;
+    margin-right: 10px;
+}
