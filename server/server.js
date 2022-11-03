@@ -5,7 +5,7 @@ const userRouter = require("./routes/main");
 const cors = require("cors");
 
 const url =
-  "mongodb+srv://200202030:20012001abc@cluster0.dbpm2dc.mongodb.net/yazlab_project?retryWrites=true&w=majority";
+  "MongoDD bağlatı query'si";
 const app = express();
 
 app.use(cors());
